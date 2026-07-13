@@ -1,13 +1,42 @@
 ---
 id: "2e93da24-8690-ed11-aad0-000d3a791f89"
 
-qualifications: "Masters of IT, MCP"
+qualifications: "Masters of IT, CSPO, CSM"
 
 quote: "If you're afraid to change something it is clearly poorly designed."
 quoteAuthor: "Martin Fowler"
 ---
+
+
+[[imgBadge]]
+| ![Azure](../badges/Certification-microsoft-azure-ai-engineer-associate.png)
+
+[[imgBadge]]
+| ![Azure](../badges/Certification-microsoft-azure-developer-associate.png)
+
+[[imgBadge]]
+| ![Azure](../badges/Certification-microsoft-azure-ai-fundamentals.png)
+
+[[imgBadge]]
+| ![Azure](../badges/Certification-microsoft-azure-fundamentals.png)
+
+[[imgBadge]]
+| ![Microsoft](../badges/Certification-microsoft-professional.jpg)
+
+[[imgBadge]]
+| ![Scrum](../badges/Certification-scrumalliance-owner-1.png)
+
+[[imgBadge]]
+| ![Scrum](../badges/Certification-scrumalliance-master.png)
+
 [[imgBadge]]
 | ![azure-logo.png](../badges/Business-microsoft-azure.png)
+
+[[imgBadge]]
+| ![dotnetcore.png](../badges/Developer-dotnet-core.png)
+
+[[imgBadge]]
+| ![dotnetcore.png](../badges/Developer-c-sharp.png)
 
 [[imgBadge]]
 | ![xamarin-logo.png](../badges/Developer-xamarin.png)
@@ -19,40 +48,25 @@ quoteAuthor: "Martin Fowler"
 | ![Android](../badges/Designer-mobile-android.png)
 
 [[imgBadge]]
-| ![dotnetcore.png](../badges/Developer-dotnet-core.png)
-
-[[imgBadge]]
-| ![dotnetcore.png](../badges/Developer-c-sharp.png)
-
-[[imgBadge]]
 | ![React](../badges/Developer-react.png)
-
-[[imgBadge]]
-| ![Vue](../badges/Developer-vuejs.png)
 
 [[imgBadge]]
 | ![Angular](../badges/Developer-angular.png)
 
 [[imgBadge]]
-| ![Angular](../badges/Developer-python.png)
+| ![Python](../badges/Developer-python.png)
 
 [[imgBadge]]
-| ![Azure](../badges/Certification-microsoft-azure-ai-engineer-associate.png)
+| ![Supabase](../badges/Developer-supabase.png)
 
 [[imgBadge]]
-| ![Azure](../badges/Certification-microsoft-azure-ai-fundamentals.png)
-
-[[imgBadge]]
-| ![Azure](../badges/Certification-microsoft-azure-fundamentals.png)
-
-[[imgBadge]]
-| ![Microsoft](../badges/Certification-microsoft-professional.jpg)
+| ![MongoDbAtlas](../badges/Developer-mongodb-atlas.png)
 
 
-Anton is a results-driven Senior Software Engineer at SSW with over 7 years of experience in professional software development. He has a proven track record of delivering high-quality solutions that meet the needs of both end-users and the business. Anton's expertise lies in designing and building robust software applications using cutting-edge approaches and techniques.
+Anton is a Senior Software Engineer at SSW with over 10 years of experience delivering high-quality software across a range of industries. He combines technical expertise with a pragmatic mindset, consistently building solutions that are robust, scalable, and aligned with business objectives.
 
-Throughout his career, Anton has spearheaded several impactful projects, including building a mobile application for a regional Australian bank. His careful attention to detail and commitment to excellence have consistently resulted in improved performance and user satisfaction.
+He has led the development of several impactful systems, including a sophisticated auditing platform for a professional services firm and a mobile banking app for a regional Australian bank. Anton often takes on technical leadership roles—guiding teams, shaping architecture, and driving projects from concept to delivery.
 
-Anton is passionate about mobile development, specializing in the .NET platform and performance engineering. He stays updated on the latest advancements in technology to ensure he delivers solutions that are at the forefront of innovation. Additionally, Anton actively contributes to the tech community as the organizer of a competitive programming club in Newcastle.
+A strong advocate for continuous learning and knowledge sharing, Anton regularly speaks at tech meetups on topics ranging from .NET performance to software architecture and AI integration. He also contributes to the local developer community as the founder and organizer of a competitive programming club in Newcastle.
 
-Certified in Azure and proficient in .NET, Anton is well-equipped to tackle complex challenges and drive success in software development projects.
+Certified in Scrum and Azure, and deeply skilled in .NET, Anton brings both strategic thinking and hands-on technical depth to every project he leads.

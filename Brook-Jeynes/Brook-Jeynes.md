@@ -6,29 +6,38 @@ quoteAuthor: "Marcus Aurelius"
 ---
 
 [[imgBadge]]
-| ![Linux](../badges/Developer-linux.png)
+| ![TinaCMS logo](../badges/Developer-TinaCMS.png)
 
 [[imgBadge]]
-| ![JS](../badges/Developer-js.png)
+| ![Linux logo](../badges/Developer-linux.png)
 
 [[imgBadge]]
-| ![React](../badges/Developer-react.png)
+| ![JS logo](../badges/Developer-js.png)
 
 [[imgBadge]]
-| ![C#](../badges/Developer-c-sharp.png)
+| ![HTML logo](../badges/Designer-web-html5.png)
 
 [[imgBadge]]
-| ![Rust](../badges/Developer-rust.png)
+| ![React logo](../badges/Developer-react.png)
 
 [[imgBadge]]
-| ![C](../badges/Developer-c.png)
+| ![Golang logo](../badges/Developer-golang.png)
 
 [[imgBadge]]
-| ![Zig](../badges/Developer-zig.png)
+| ![Zig logo](../badges/Developer-zig.png)
 
-Brook Jeynes is a Software Engineer currently working in the Brisbane office.  
-At SSW, he is predominantly working on [Tina - the world's best headless CMS powered by Markdown and GitHub](https://tina.io).  
-He focuses on the backend side of Tina, TinaCloud, where he writes Golang, React and NodeJS code that interacts with AWS services.
+---
 
-In his personal time, Brook works on system tooling and websites to aid in his venture to learn and practice new things.  
-He also enjoys hiking, bouldering, and playing music.
+Brook Jeynes is a Software Engineer and Consultant at SSW in Brisbane. He
+specialises in backend development for [TinaCloud](https://tina.io), a headless
+CMS built on Markdown and GitHub, working primarily with Golang and Node.js on
+AWS services.
+
+As a consultant, Brook has worked with various clients across different
+technologies, ranging from mobile development using React Native to email
+plugins (both Outlook and Gmail). He values simplicity and readability in his
+code, with a strong focus on building accessible solutions.
+
+In his spare time, Brook enjoys building system tooling and projects targeted
+towards language learners. He's passionate about hiking, bouldering, language
+learning, and playing music. 그는 한국어도 조금 할 줄 압니다.
